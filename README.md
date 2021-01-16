@@ -1,0 +1,2 @@
+# WordTableGenerator
+用于根据样板文章生成对应的连词游戏图
